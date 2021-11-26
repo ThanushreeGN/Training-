@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+.mainBox {
+  border: 3px solid black;
+}
+.box {
+  height: 200px;
+  width: 200px;
+  border: 2px solid blue;
+  margin-top: 300px;
+  padding: 20px;
+  margin-top: 200px;
+}
