@@ -1,0 +1,21 @@
+.C1 {
+  width: 300px;
+  height: 300px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+}
+.C2 {
+  border: 15px solid brown;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+}
+.C3 {
+  border: 5px solid black;
+  padding-left: 10px;
+  padding-right: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
